@@ -1,0 +1,23 @@
+body {
+    background-image: url("Ultimate-guide-to-food-photography - Copy.webp");
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    
+}
+h1 {
+    color:white; 
+    font-weight: bold;
+}
+h2,h3{
+    color:white;
+    font-family: 'Lobster', cursive;
+    background-color: rgba(0,0,0,0.6);  /* 👈 main */
+    padding: 5px 10px;
+}
+
+
+
+h1 {
+    text-shadow: 0 0 10px yellow, 0 0 20px orange, 0 0 30px red;
+}
